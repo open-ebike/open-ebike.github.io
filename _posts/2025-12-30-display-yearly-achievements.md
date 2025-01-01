@@ -38,7 +38,7 @@ For user convenience, we
 * [automatically select a year of there is only one with activities](https://github.com/open-ebike/open-ebike-frontend/commit/62bb3b7adf6e4f5074ce85af400dfa1c4d818fd2)
 * [automatically unselect a year if it has no activities](https://github.com/open-ebike/open-ebike-frontend/commit/6b8c6bbce8c0d9e7eb17e16a3a5c97e79e978522)
 
-We display yearly  achievements in a carousel so that the user can swipe through them after selecting the year.
+We display yearly achievements in a carousel so that the user can swipe through them after selecting the year.
 
 ![web-app-yearly-achievements.png](/assets/2025-12-30/web-app-yearly-achievements.png)
 
