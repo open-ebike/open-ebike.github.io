@@ -2,7 +2,7 @@
 layout: post
 title: The Implications of EU Data Act
 date: 2025-09-10 07:00:00 -0200
-categories: [introduction legislation]
+categories: [devlog]
 ---
 
 The digital economy thrives on data, but accessing and utilizing it effectively can be a complex and often imbalanced endeavor. Enter the **EU Data Act**, a landmark regulation designed to reshape how data is shared and used across the European Union. Officially known as **Regulation (EU) 2023/2854** (the original legal text can be found [here](https://eur-lex.europa.eu/eli/reg/2023/2854/oj/eng)), this legislation, adopted on December 13, 2023, aims to establish **harmonised rules on fair access to and use of data**.
