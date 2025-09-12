@@ -17,7 +17,7 @@ This dev log documents a sample project in which we take two roles: the user of 
 Step-by-step we will explore
 
 - how to generate data using a Bosch-powered eBike
-- how to register for data access
+- [how to register for data access](https://open-ebike.github.io/devlog/2025/09/12/register-for-data-access.html)
 - how to grant access to data
 - how retrieve data via REST calls
 
@@ -53,3 +53,7 @@ After installing the app on your mobile device create a SingleKey ID account (if
 
 Both available [Bosch eBike generations](https://www.bosch-ebike.com/us/products/overview) - the Bosch **eBike system 2** and the more recent **smart system** - facilitate data access based on EU Data Act. For this showcase I will be using an eBike powered by the Bosch Smart System.
 We need to track at least one activity using the Flow app to generate some data that can be accessed via the EU Data Act interface.
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/12/register-for-data-access.html) we will learn how to register for data access.

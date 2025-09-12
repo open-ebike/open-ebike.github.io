@@ -16,30 +16,13 @@
 
 ## About The Project
 
-The aim of this app is to document the development of a sample app that makes use of the [EU Data Act interface at Bosch eBike System](https://flow.bosch-ebike.com/data-act).
+The aim of this repo is to document the development of a sample app that makes use of the [EU Data Act API of Bosch eBike Systems](https://flow.bosch-ebike.com/data-act). The dev log is available at [open-ebike.github.io](https://open-ebike.github.io).
 
 ### Built With
 
 * [GitHub Pages](https://docs.github.com/en/pages)
 * [Jekyll](https://jekyllrb.com/)
 
-## Installation
-
-tbd
-
-## Usage
-
-tbd
-
-## Roadmap
-
-See the [open issues](https://github.com/open-ebike/open-ebike.github.io/issues) for a list of proposed features (and
- known issues).
-
-## Contact
-
-Florian Schwanz - florian.schwanz@gmail.com
-
 ## Acknowledgements
 
-Icon made by Freepik from www.flaticon.com
+Icon made by Freepik from [flaticon.com](https://flaticon.com)
