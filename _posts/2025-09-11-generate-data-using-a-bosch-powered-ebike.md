@@ -18,7 +18,7 @@ Step-by-step we will explore
 
 - how to generate data using a Bosch-powered eBike
 - [how to register for data access](https://open-ebike.github.io/devlog/2025/09/12/register-for-data-access.html)
-- how to grant access to data
+- [how to grant access to data](https://open-ebike.github.io/devlog/2025/09/13/grant-access-to-data.html)
 - how retrieve data via REST calls
 
 Later on we will

@@ -38,3 +38,7 @@ Finally, we create a client application that will be used to retrieve the data v
 ![manage-your-access-and-data.png](/assets/2025-09-12/manage-your-access-and-data.png)
 
 After creating the client application we can see the client ID and client secret which we will need later for the authentication.
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/13/grant-access-to-data.html) we will learn how to grant access to data.
