@@ -26,3 +26,7 @@ For each eBike we can decide which client application we want to grant access to
 Let's select the client application we created in the previous post and grant access to our eBike's data.
 
 ![your-rider-your-data-your-choice.png](/assets/2025-09-13/your-rider-your-data-your-choice.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/14/retrieve-data-via-rest-calls) we will learn how to retrieve data via REST calls.
