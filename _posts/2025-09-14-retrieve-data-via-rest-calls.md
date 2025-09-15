@@ -123,3 +123,7 @@ You can find it in the file `open-ebike-backend/http/ebike-profile.http`.
 ```
 
 ![jetbrains-list-all-ebikes.png](/assets/2025-09-14/jetbrains-list-all-ebikes.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/15/implement-a-web-app) we will start implementing a web app to display our data.
