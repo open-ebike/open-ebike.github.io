@@ -120,8 +120,6 @@ This will open a browser window where we can log in with our SingleKey ID creden
 Finally, we can call the endpoint **List all eBikes** which will return all bikes that are registered to our user account.
 You can find it in the file `open-ebike-backend/http/ebike-profile.http`.
 
-```
-
 ![jetbrains-list-all-ebikes.png](/assets/2025-09-14/jetbrains-list-all-ebikes.png)
 
 ---

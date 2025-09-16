@@ -19,9 +19,13 @@ As a foundation we will [implement an app frame](https://github.com/open-ebike/o
 * [a service to handle screen sizes](https://github.com/open-ebike/open-ebike-frontend/commit/b91dfae27bbe6f782356af0dbc8602dd93446c75)
 * [a service to handle translations](https://github.com/open-ebike/open-ebike-frontend/commit/aa9cc6a442cfbf46451d81990cc11f24fd815ef7)
 * [a toolbar](https://github.com/open-ebike/open-ebike-frontend/commit/6ebb469bfbbd441b172cd71bfd028efeece8f429) which will contain our menu
-* [a footer](https://github.com/open-ebike/open-ebike-frontend/commit/7e2de5692d1c785b5104c6cf7934c15b9b025634) which will contain static information
-* [a home page](https://github.com/open-ebike/open-ebike-frontend/commit/ad0a9ca303a1e120256183a2c7daf2d4b2d68973) which will be displayed when initially loading the app
-* [an app frame](https://github.com/open-ebike/open-ebike-frontend/commit/5ac51ed232c6fa6689165f30aa50fda0d238f6f9) bringing everything together
-* [a theme switcher](https://github.com/open-ebike/open-ebike-frontend/commit/d1b1a55bbb59c924d2d7f89ebedee14975d49b86) to switch between light and dark mode
+* [a footer](https://github.com/open-ebike/open-ebike-frontend/commit/ce57cd1a4d8e70af5c726b5433d9f4012e0cda7e) which will contain static information
+* [a home page](https://github.com/open-ebike/open-ebike-frontend/commit/bb8cf9e0afb0912b16efbf5063146cf0181110a5) which will be displayed when initially loading the app
+* [an app frame](https://github.com/open-ebike/open-ebike-frontend/commit/a48bda87508e0c57691c7f44b2f877a06c25cd23) bringing everything together
+* [a theme switcher](https://github.com/open-ebike/open-ebike-frontend/commit/790f998babe428192343be110fce07aa8804e420) to switch between light and dark mode
 
 ![web-app-home-page.png](/assets/2025-09-15/web-app-home-page.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/16/implement-authentication) we will add authentication via SingleKey ID to our web app.
