@@ -31,3 +31,7 @@ To be able to display user data we will [add authentication](https://github.com/
 After a successful login the user is greeted by their email address.
 
 ![web-app-user-greeting.png](/assets/2025-09-16/web-app-user-greeting.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/17/display-ebikes.html) we will load and display our first data point.
