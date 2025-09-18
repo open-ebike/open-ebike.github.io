@@ -16,3 +16,7 @@ Now that the user can log in let's [load their eBike data and display it](https:
 To help the user to distinguish between multiple eBikes we display the eBike ID on each card.
 
 ![web-app-ebikes.png](/assets/2025-09-17/web-app-ebikes.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/18/display-ebike-details.html) we will display the details of an eBike.
