@@ -16,3 +16,7 @@ Now let's [load an eBike's details and display it](https://github.com/open-ebike
 To let the user identify the components mounted to their eBike we display serial number and part number of each component as well as other attributes and different icons.
 
 ![web-app-ebike-details.png](/assets/2025-09-18/web-app-ebike-details.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/19/display-activities.html) we will display activities a user has performed on their eBike.
