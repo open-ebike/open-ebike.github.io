@@ -14,3 +14,7 @@ Now let's [load all the activities a user has performed](https://github.com/open
 To give the user an idea about the activity we will display its name, ist start date and the traveled distance.  
 
 ![web-app-activities.png](/assets/2025-09-19/web-app-activities.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/20/display-activity-details.html) we will display activity details of a selected activity.
