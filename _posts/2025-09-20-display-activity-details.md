@@ -15,3 +15,7 @@ To simplify the navigation we move the list of activity summaries to a side navi
 The details of the selected activity are displayed on the main page.
 
 ![web-activity-details.png](/assets/2025-09-20/web-activity-details.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/21/display-registrations.html) we will display all the registrations a user has performed.
