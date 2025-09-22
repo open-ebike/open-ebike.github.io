@@ -18,4 +18,4 @@ To simplify the navigation we also add links from a registered eBike to the eBik
 
 ---
 
-In [the next post](https://open-ebike.github.io/devlog/2025/09/22/display-bike-pass.html) we will display bike passes associated with an eBike.
+In [the next post](https://open-ebike.github.io/devlog/2025/09/22/display-bike-passes.html) we will display bike passes associated with an eBike.
