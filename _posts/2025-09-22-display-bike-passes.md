@@ -12,3 +12,7 @@ Now let's [load all bike passes](https://github.com/open-ebike/open-ebike-fronte
 * [display the bike passes](https://github.com/open-ebike/open-ebike-frontend/commit/5dfce998ea5ce5fdb1724acc47bbda16fcca1340) on the eBike details page
 
 ![web-app-bike-passes.png](/assets/2025-09-22/web-app-bike-passes.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/23/display-bulk-installation-reports.html) we will display bulk installation reports associated with an eBike.
