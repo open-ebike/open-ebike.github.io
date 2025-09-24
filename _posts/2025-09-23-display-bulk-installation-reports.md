@@ -13,3 +13,8 @@ Now let's [load all bulk installation reports](https://github.com/open-ebike/ope
 * [display the bulk installation reports](https://github.com/open-ebike/open-ebike-frontend/commit/8b9f467e5219b63146a8cc16d9a52c1b923de1ee) on the eBike details page
 
 ![web-app-bulk-installation-reports.png](/assets/2025-09-23/web-app-bulk-installation-reports.png)
+
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/24/display-field-data.html) we will display field data associated with a component.
