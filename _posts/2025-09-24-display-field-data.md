@@ -13,3 +13,7 @@ Now let's [load field data](https://github.com/open-ebike/open-ebike-frontend/is
 * [display the field](https://github.com/open-ebike/open-ebike-frontend/commit/4bce57521517450a11f26f1669f8471248983390) on the component details page
 
 ![web-app-field-data.png](/assets/2025-09-24/web-app-field-data.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/25/display-service-book.html) we will display the service book associated with an eBike.
