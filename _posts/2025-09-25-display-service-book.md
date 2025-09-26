@@ -12,3 +12,7 @@ Now let's [load the service book](https://github.com/open-ebike/open-ebike-front
 * [display the service book](https://github.com/open-ebike/open-ebike-frontend/commit/be555b0df49e23d3a1dcae2e91a762baa13797ca) on the eBike details page
 
 ![web-app-service-book.png](/assets/2025-09-25/web-app-service-book.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/26/display-remote-configuration-cases.html) we will display the remote configuration cases associated with an eBike.
