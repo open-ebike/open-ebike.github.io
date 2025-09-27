@@ -12,3 +12,7 @@ Now let's [load all the remote configuration cases](https://github.com/open-ebik
 * [display remote configuration cases](https://github.com/open-ebike/open-ebike-frontend/commit/33c740cbacafb8f8efb84ed81e93f4e2bd52d54a) on the eBike details page
 
 ![web-app-remote-configuration-cases.png](/assets/2025-09-26/web-app-remote-configuration-cases.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/09/27/display-installation-reports.html) we will display the installation reports associated with an eBike.
