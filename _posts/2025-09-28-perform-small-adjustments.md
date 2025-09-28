@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perform small adjustments
+title: Perform Small Adjustments
 date: 2025-09-28 07:00:00 -0200
 categories: [devlog]
 ---

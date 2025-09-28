@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Display bike passes
+title: Display Bike Passes
 date: 2025-09-22 07:00:00 -0200
 categories: [devlog]
 ---

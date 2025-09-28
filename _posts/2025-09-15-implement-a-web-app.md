@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Implement a web app
+title: Implement a Web App
 date: 2025-09-15 07:00:00 -0200
 categories: [devlog]
 ---

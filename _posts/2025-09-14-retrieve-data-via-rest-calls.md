@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retrieve data via REST calls
+title: Retrieve Data via REST calls
 date: 2025-09-14 07:00:00 -0200
 categories: [devlog]
 ---

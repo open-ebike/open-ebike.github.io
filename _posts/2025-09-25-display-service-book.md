@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Display service book
+title: Display Service Book
 date: 2025-09-25 07:00:00 -0200
 categories: [devlog]
 ---

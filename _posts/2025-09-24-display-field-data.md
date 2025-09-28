@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Display field data
+title: Display Field Data
 date: 2025-09-24 07:00:00 -0200
 categories: [devlog]
 ---

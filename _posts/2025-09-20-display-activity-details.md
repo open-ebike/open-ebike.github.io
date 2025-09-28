@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Display activity details
+title: Display Activity Details
 date: 2025-09-20 07:00:00 -0200
 categories: [devlog]
 ---

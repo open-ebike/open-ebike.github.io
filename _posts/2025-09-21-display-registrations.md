@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Display registrations
+title: Display Registrations
 date: 2025-09-21 07:00:00 -0200
 categories: [devlog]
 ---

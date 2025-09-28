@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Implement authentication
+title: Implement Authentication
 date: 2025-09-16 07:00:00 -0200
 categories: [devlog]
 ---

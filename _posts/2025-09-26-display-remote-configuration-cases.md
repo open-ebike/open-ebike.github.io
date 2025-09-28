@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Display remote configuration cases
+title: Display Remote Configuration Cases
 date: 2025-09-26 07:00:00 -0200
 categories: [devlog]
 ---

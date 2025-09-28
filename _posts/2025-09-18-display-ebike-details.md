@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Display eBike details
+title: Display eBike Details
 date: 2025-09-18 07:00:00 -0200
 categories: [devlog]
 ---

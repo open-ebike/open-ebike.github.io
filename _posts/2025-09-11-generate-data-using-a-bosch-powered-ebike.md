@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generate data using a Bosch-powered eBike
+title: Generate Data using a Bosch-powered eBike
 date: 2025-09-11 07:00:00 -0200
 categories: [devlog]
 ---

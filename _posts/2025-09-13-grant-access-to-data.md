@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grant access to data
+title: Grant Access to Data
 date: 2025-09-13 07:00:00 -0200
 categories: [devlog]
 ---

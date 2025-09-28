@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Display bulk installation reports
+title: Display Bulk Installation Reports
 date: 2025-09-23 07:00:00 -0200
 categories: [devlog]
 ---
