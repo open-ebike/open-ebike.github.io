@@ -12,7 +12,7 @@ Since our web app is a public client application we will use the OAuth 2.0 autho
 For that we need to register another client application at [https://portal.bosch-ebike.com](https://portal.bosch-ebike.com) (as described in [an earlier post](https://open-ebike.github.io/devlog/2025/09/12/register-for-data-access.html)) with the following settings:
 
 * client application name: test-public
-* login URL: http://localhost:4200/*
+* login URL: http://localhost:4200
 * redirect URL: http://localhost:4200/*
 * confidential client: no
 

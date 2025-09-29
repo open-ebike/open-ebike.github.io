@@ -27,6 +27,6 @@ After working on this project for a week some bugs piled up that need fixing.
 * [the side nav toggle button should display different texts](https://github.com/open-ebike/open-ebike-frontend/commit/5bf083521cb3aa2284e25f05886a604c9053bb29) depending on the side nav state
 * [some minor typo](https://github.com/open-ebike/open-ebike-frontend/commit/5f7d03d67d03f534f818ddafffcd22a3e1a3c088) may be fixed as well
 
-Since many pages use the same stylesheets we simplify them by [moving them into a central styelsheet](https://github.com/open-ebike/open-ebike-frontend/commit/01fee2dcf4be49706ed59ec3d33e494118d87e7f).
+Since many pages use the same stylesheets we simplify them by [moving them into a central styelsheet](https://github.com/open-ebike/open-ebike-frontend/commit/1977d684add4d810453752f813655a7563580d66).
 
-Last but not least let's add [links to this dev log and the GitHub organization](https://github.com/open-ebike/open-ebike-frontend/commit/17c541ed76a5258f413f7edc5075e4689a71661c) to the footer. 
+Last but not least let's add [links to this dev log and the GitHub organization](https://github.com/open-ebike/open-ebike-frontend/commit/dcf6fd9549b8fe96ae0168929863e4e8d4a43bed) to the footer. 

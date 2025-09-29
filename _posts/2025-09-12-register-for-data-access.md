@@ -31,7 +31,7 @@ Afterward, we proceed as a user (since we want to access our own data) and accep
 Finally, we create a client application that will be used to retrieve the data via REST calls
 
 * client application name: test-confidential
-* login URL: http://localhost:4200/*
+* login URL: http://localhost:4200
 * redirect URL: http://localhost:4200/*
 * confidential client: yes
 
