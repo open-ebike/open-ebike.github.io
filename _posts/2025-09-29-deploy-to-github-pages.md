@@ -93,7 +93,7 @@ Et voilà, the login now works.
 
 ![github-pages-login.png](/assets/2025-09-29/github-pages-login.png)
 
-## Address issue with same-origin policy
+## Address the issue with same-origin policy
 
 When trying to navigate to one of the pages we notice that there is another issue: the deployed app cannot access the Bosch eBike System APIs https://api.bosch-ebike.com.
 By default, browsers enforce a [same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy) which prevents calling resources from another server.
@@ -105,4 +105,5 @@ With [CORS anywhere](https://cors-anywhere.com/) we send each request of our web
 While this approach bypasses the restrictions of the same-origin policy it is not intended to be used in production.
 
 Since this approach does not seem to work we need to find another alternative - for example proxying the server requests ourselves using cloud functions.
+In [the next post](https://open-ebike.github.io/devlog/2025/09/30/deploy-to-firebase-hosting.html) we will deploy the app to Firebase Hosting.
 
