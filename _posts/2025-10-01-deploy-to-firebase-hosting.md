@@ -41,7 +41,7 @@ During the project setup we answer the questions as follows:
 * Which Firebase features do you want to set up for this directory? **Hosting** 
 * Please select an option **Use an existing project** 
 * Select a default Firebase project for this directory **open-ebike (Open eBike)** 
-* What do you want to use as your public directory? **dist/open-ebike-frontend/browser (the directory we )**  
+* What do you want to use as your public directory? **dist/open-ebike-frontend/browser**  
 * Configure as a single-page app (rewrite all urls to /index.html)? **Y** 
 * Set up automatic builds and deploys with GitHub? **N** 
 
@@ -135,5 +135,8 @@ Et voilà, the login now works.
 
 ## Address the issue with same-origin policy
 
-Calling the Bosch eBike System APIs https://api.bosch-ebike.com runs into the same issue we discussed in the previous post. 
-To address this in the next post we will implement a way to bypass it by using [Firebase Functions](https://firebase.google.com/docs/functions).
+Calling the Bosch eBike System APIs https://api.bosch-ebike.com runs into the same issue we discussed in the previous post.
+
+---
+
+To address this in [the next post](https://open-ebike.github.io/devlog/2025/10/02/use-firebase-functions-to-proxy-api-calls.html) we will implement a way to bypass it by using [Firebase Functions](https://firebase.google.com/docs/functions).
