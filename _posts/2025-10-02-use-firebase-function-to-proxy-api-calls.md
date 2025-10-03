@@ -99,3 +99,7 @@ export const environment = {
   eBikeApiUrl: '/api'
 }
 ```
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/10/03/make-client-id-configurable.html) we will make the client ID configurable so that each user can use their individual client application which is needed to access their own data.
