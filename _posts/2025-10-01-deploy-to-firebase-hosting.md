@@ -16,19 +16,19 @@ This acts as a preparation to use Firebase Functions as a proxy to overcome the 
 First of all we need to create a Google Account.
 After that we can access the [Firebase Console](https://console.firebase.google.com/).
 
-![firebase-01-welcome.png](/assets/2025-09-30/firebase-01-welcome.png)
+![firebase-01-welcome.png](/assets/2025-10-01/firebase-01-welcome.png)
 
 Here we can create a project that we will call `Open eBike`.
 
-![firebase-02-create-project.png](/assets/2025-09-30/firebase-02-create-project.png)
+![firebase-02-create-project.png](/assets/2025-10-01/firebase-02-create-project.png)
 
 After disabling Gemini and Google Analytics for now we are now ready to use the Firebase Console.
 
-![firebase-05-console.png](/assets/2025-09-30/firebase-05-console.png)
+![firebase-05-console.png](/assets/2025-10-01/firebase-05-console.png)
 
 Here we can follow the link `Get started` to set up our web app.
 
-![firebase-06-hosting.png](/assets/2025-09-30/firebase-06-hosting.png)
+![firebase-06-hosting.png](/assets/2025-10-01/firebase-06-hosting.png)
 
 As the getting-started guide suggests to do the following steps
 
@@ -49,8 +49,12 @@ After a successful setup we can deploy our app manually by running the following
 
 ```shell
 npm run build
-firebase deploy
+firebase deploy --only hosting
 ```
+
+In the [Firebase Console](https://console.firebase.google.com/) we can now see our deployment.
+
+![firebase-07-manage-site.png](/assets/2025-10-01/firebase-07-manage-site.png)
 
 Voilà, the web app is available at [https://open-ebike.web.app](https://open-ebike.web.app).
 
@@ -68,7 +72,7 @@ We need to store the retrieved token as a repository secret which can be created
 In the `Secrets and variables` section we selected `Actions` and then `New repository secret` to do so.
 Last we store our token as `FIREBASE_TOKEN` so that it can be used by GitHub Actions.
 
-![github-secrets.png](/assets/2025-09-30/github-secrets.png)
+![github-secrets.png](/assets/2025-10-01/github-secrets.png)
 
 Now let's [create a GitHub Action](https://github.com/open-ebike/open-ebike-frontend/commit/e69ce25d9c39f6108faa48e268c6569b0a90a7ac) that builds the app and deploys it to Firebase Hosting. 
 For that we specify a workflow in `.github/workflows/deploy-app-firebase-hosting.yml` which looks like this

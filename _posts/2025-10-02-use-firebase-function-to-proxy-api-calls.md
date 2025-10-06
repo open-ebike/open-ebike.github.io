@@ -82,6 +82,10 @@ The function can be deployed by running the following command:
 firebase deploy --only functions
 ```
 
+In the [Firebase Console](https://console.firebase.google.com/) we can now see our function.
+
+![firebase-function.png](/assets/2025-10-02/firebase-function.png)
+
 The only thing left to do is [to configure our app to call the Firebase function](https://github.com/open-ebike/open-ebike-frontend/commit/e98057dc0d145fb8be97148097ba454e3667536f) instead of the actual API endpoint.
 We can do so by adding this rewrite in `firebase.json` that forwards all calls to `/api`to our function.
 
@@ -99,6 +103,14 @@ export const environment = {
   eBikeApiUrl: '/api'
 }
 ```
+
+For this approach to work properly need to allow or function to be accessed publicly. We can so via [the Cloud Run section inside the Google Cloud Connsole](https://console.cloud.google.com/run). Here we can see our deployed function. 
+
+![cloud-run-overview.png](/assets/2025-10-02/cloud-run-overview.png)
+
+In the function's details page, in the `Security` tab we need to select `Allow public access`.
+
+![cloud-run-allow-public-access.png](/assets/2025-10-02/cloud-run-allow-public-access.png)
 
 ---
 
