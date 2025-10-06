@@ -10,11 +10,11 @@ In [the previous post](https://open-ebike.github.io/devlog/2025/09/11/generate-d
 # Step 2: Register for Data Access
 
 To register for data access we as a data recipient need to follow a three-part process which includes
-* log in or sign uo with SingleKey ID
+* log in or sign in with SingleKey ID
 * accept terms and conditions for data recipients
 * create a client application
 
-## Log in or sign uo with SingleKey ID
+## Log in or sign in with SingleKey ID
 
 First of all we need to log in or sign up with our SingleKey ID at [https://portal.bosch-ebike.com](https://portal.bosch-ebike.com). Since we already created an SingleKey ID account in the previous post we can simply log in.
 

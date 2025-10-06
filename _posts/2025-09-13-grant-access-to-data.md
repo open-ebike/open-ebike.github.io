@@ -12,7 +12,7 @@ In [the previous post](https://open-ebike.github.io/devlog/2025/09/12/register-f
 Now we need to grant access to the data generated with our eBike (taking the role of a user).
 Remember that we are both the user and the data recipient at the same time in this sample project.
 
-## Log in or sign uo with SingleKey ID
+## Log in or sign in with SingleKey ID
 
 First of all we need to log in or sign up with our SingleKey ID at [https://flow.bosch-ebike.com](https://flow.bosch-ebike.com).
 Since we already created an SingleKey ID account in the previous post we can simply log in.
