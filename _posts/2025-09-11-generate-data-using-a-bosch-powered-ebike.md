@@ -21,11 +21,7 @@ Step-by-step we will explore
 - step #3 : [how to grant access to data](https://open-ebike.github.io/devlog/2025/09/13/grant-access-to-data.html)
 - step #4 : [how retrieve data via REST calls](https://open-ebike.github.io/devlog/2025/09/14/retrieve-data-via-rest-calls)
 - step #5 : [how to implement a simple web app](https://open-ebike.github.io/devlog/2025/09/15/implement-a-web-app.html) that displays the user data
-
-Later on we will
-
-- deploy the web app so that it can be used by others
-- implement a simple use case based on the data
+- step #6: [how to deploy the web app](https://open-ebike.github.io/devlog/2025/10/01/deploy-to-firebase-hosting.html) so that it can be used by others
 
 # Step 1: Generate data using a Bosch-powered eBike
 
