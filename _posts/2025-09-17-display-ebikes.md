@@ -5,8 +5,10 @@ date: 2025-09-17 07:00:00 -0200
 categories: [devlog]
 ---
 
-In [the previous post](https://open-ebike.github.io/devlog/2025/09/16/implement-authentication.html) we implemented user authentication for our web app.
-Now that the user can log in let's [load their eBike data and display it](https://github.com/open-ebike/open-ebike-frontend/issues/3). To do so we need to
+In [the previous post](https://open-ebike.github.io/devlog/2025/09/16/implement-authentication.html) we implemented a user authentication via **SingleKey ID**.
+Now that the user can log in let's [load their eBikes](https://github.com/open-ebike/open-ebike-frontend/issues/3) via the [eBike Profile API (Smart System)
+](https://portal.bosch-ebike.com/data-act/app#/smart-system-bike-profile) and display them. 
+To do so we need to
 
 * [add a proxy configuration](https://github.com/open-ebike/open-ebike-frontend/commit/aff24419ea0e0d8a92db04cb1ee0545664cd878a) to avoid CORS issues when accessing the Bosch eBike API
 * [add an eBike profile service](https://github.com/open-ebike/open-ebike-frontend/commit/3feaeb583a583bf9efdf1bb02959f7964ff60184) to fetch the eBike profiles of the logged-in user

@@ -16,3 +16,7 @@ To do so we need to adjust the authentication service and add another button to 
 Second, let's [update the onboarding guide](https://github.com/open-ebike/open-ebike-frontend/commit/5b18bbad5add332ea290c83bbd5cb80f0607fac9) to explain the new authentication option.
 
 ![web-app-onboarding-guide.png](/assets/2025-10-11/web-app-onboarding-guide.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/10/12/display-ebikes.html) we will load and display our first data point.
