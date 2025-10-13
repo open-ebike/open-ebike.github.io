@@ -17,3 +17,7 @@ Note that in contrast to the [eBike Profile API (Smart System)
 ](https://portal.bosch-ebike.com/data-act/app#/smart-system-bike-profile) and eBike has no ID to distinguish it from others.
 
 ![web-app-ebikes.png](/assets/2025-10-12/web-app-ebikes.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/10/13/display-ebike-details.html) we will display the details of an eBike.
