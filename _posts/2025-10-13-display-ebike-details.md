@@ -15,3 +15,7 @@ Note that in contrast to the [eBike Profile API (Smart System)
 ](https://portal.bosch-ebike.com/data-act/app#/smart-system-bike-profile) there is no dedicated endpoint to retrieve the details of a single eBike. 
 
 ![web-app-ebike-details.png](/assets/2025-10-13/web-app-ebike-details.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/10/14/display-component-details.html) we will display component details.
