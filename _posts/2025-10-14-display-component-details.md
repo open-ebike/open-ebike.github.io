@@ -12,3 +12,7 @@ To do so we need to
 * [add a separate component details page](https://github.com/open-ebike/open-ebike-frontend/commit/5e524e44688a628890df88da32e912bd3f23362c) to display the component details
 
 ![web-app-component-details.png](/assets/2025-10-14/web-app-component-details.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/10/15/display-activities.html) we will display activities a user has performed on their eBike.
