@@ -18,3 +18,7 @@ To do so we need to
 To give the user an idea about the activity we will display its name, ist start date and the traveled distance.
 
 ![web-app-activity-summary.png](/assets/2025-10-15/web-app-activity-summary.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/10/16/display-activity-details.html) we will display activity details of a selected activity.

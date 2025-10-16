@@ -6,7 +6,9 @@ categories: [devlog]
 ---
 
 In [the previous post](https://open-ebike.github.io/devlog/2025/09/19/display-activities.html) we displayed all the activities a user has performed.
-Now let's [load the details of a given activity](https://github.com/open-ebike/open-ebike-frontend/issues/6). To do so we need to
+Now let's [load the details of a given activity](https://github.com/open-ebike/open-ebike-frontend/issues/6) via the [Activity Records API (Smart System)
+](https://portal.bosch-ebike.com/data-act/app#/smart-system-activity) and display them. 
+To do so we need to
 
 * [add another endpoint in activity record service](https://github.com/open-ebike/open-ebike-frontend/commit/28787fc92f1e6a431b99a2e8ff9d844911ceba7b) to fetch the activity details for a given activity ID
 * [display activity details](https://github.com/open-ebike/open-ebike-frontend/commit/bd5936e7a3c1699a3b8f164448285dd6b5d43e82) in the activities page
