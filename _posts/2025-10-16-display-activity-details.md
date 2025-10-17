@@ -21,3 +21,7 @@ Note that in contrast to the [Activity Records API (Smart System)
 Details of trip such as altitude and coordinates are stored in nested arrays.
 
 ![web-app-activity-details.png](/assets/2025-10-16/web-app-activity-details.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/10/16/display-activity-details.html) we will display activity details of a selected activity.
