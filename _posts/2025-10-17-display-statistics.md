@@ -16,3 +16,7 @@ To do so we need to
 * [add a bar chart](https://github.com/open-ebike/open-ebike-frontend/commit/79270563cfc609be46f77a1b68db730b5d1be532) to display the distances of the previous 30 days
 
 ![web-app-statistics.png](/assets/2025-10-17/web-app-statistics.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/10/19/display-diagnosis-events.html) we will display diagnosis events of a component.
