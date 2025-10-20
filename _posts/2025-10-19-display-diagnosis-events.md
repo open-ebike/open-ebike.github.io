@@ -15,3 +15,7 @@ To do so we need to
 * [display diagnosis events](https://github.com/open-ebike/open-ebike-frontend/commit/3181b18bf060d42845c868d16b5d36c205eceab9) on the component details page
 
 ![web-app-diagnosis-events.png](/assets/2025-10-19/web-app-diagnosis-events.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/10/20/display-diagnosis-field-data.html) we will display diagnosis field data of a component.
