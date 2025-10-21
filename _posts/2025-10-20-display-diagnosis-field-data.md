@@ -15,3 +15,7 @@ To do so we need to
 * [display diagnosis events](https://github.com/open-ebike/open-ebike-frontend/commit/5230d1239018a35bf7ce342182d548b6044c8d57) on the component details page
 
 ![web-app-diagnosis-events.png](/assets/2025-10-20/web-app-diagnosis-field-data.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/10/21/display-installation-reports.html) we will display installation reports of an eBike.
