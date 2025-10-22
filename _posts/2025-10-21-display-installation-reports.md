@@ -15,3 +15,7 @@ To do so we need to
 * [display installation reports](https://github.com/open-ebike/open-ebike-frontend/commit/c4c5702d7d6e3d6871afc656856f6e8090d28bbf) on the eBike details page
 
 ![web-app-diagnosis-events.png](/assets/2025-10-20/web-app-diagnosis-field-data.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/10/22/display-remote-configurations.html) we will display remote configurations of an eBike.
