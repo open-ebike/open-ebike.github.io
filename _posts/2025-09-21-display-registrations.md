@@ -6,7 +6,9 @@ categories: [devlog]
 ---
 
 In [the previous post](https://open-ebike.github.io/devlog/2025/09/20/display-activity-details.html) we displayed the details of a selected activity.
-Now let's [load all registrations a user has performed](https://github.com/open-ebike/open-ebike-frontend/issues/7). To do so we need to
+Now let's [load all registrations a user has performed](https://github.com/open-ebike/open-ebike-frontend/issues/7) via the [eBike Registration API
+](https://portal.bosch-ebike.com/data-act/app#/smart-system-bike-registration) and display them. 
+To do so we need to
 
 * [add an eBike registrations service](https://github.com/open-ebike/open-ebike-frontend/commit/16d8e5926f59ed61727dd36f8a8cf40789e93861) to fetch all the registrations a user has performed
 * [add a registrations page](https://github.com/open-ebike/open-ebike-frontend/commit/cedb0d268cf2a9a3ba3d29f2be2f42b030f69d64) to display the registrations as a list

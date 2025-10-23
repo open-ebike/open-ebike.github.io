@@ -6,7 +6,9 @@ categories: [devlog]
 ---
 
 In [the previous post](https://open-ebike.github.io/devlog/2025/09/26/display-remote-configuration-cases.html) we displayed remote configuration cases associated with an eBike.
-Now let's [load all the installation reports](https://github.com/open-ebike/open-ebike-frontend/issues/13) associated with an eBike. To do so we need to
+Now let's [load all the installation reports](https://github.com/open-ebike/open-ebike-frontend/issues/13) associated with an eBike via the [Release Management API (Smart System)
+](https://portal.bosch-ebike.com/data-act/app#/smart-system-release-management).
+To do so we need to
 
 * [add a release management service](https://github.com/open-ebike/open-ebike-frontend/commit/cd5b24cf514e382d5534a9ef3453720cb34bbd96) to fetch all the installation reports associated with an eBike
 * [display installation reports](https://github.com/open-ebike/open-ebike-frontend/commit/8786ebc0a2a34dd83d8057c5b288c1a0a3516180) on the eBike details page
