@@ -5,7 +5,7 @@ date: 2025-10-02 07:00:00 -0200
 categories: [devlog]
 ---
 
-In [the previous post](https://open-ebike.github.io/devlog/2025/09/30/deploy-to-firebase-hosting.html) we deployed the web app to Firebase Hosting. 
+In [the previous post](https://open-ebike.github.io/devlog/2025/10/01/deploy-to-firebase-hosting.html) we deployed the web app to Firebase Hosting. 
 Let's [address the issue with same-origin policy](https://github.com/open-ebike/open-ebike-frontend/issues/16) that is preventing access to the Bosch eBike System APIs https://api.bosch-ebike.com.
 
 One way of doing this is using a [Firebase Function](https://firebase.google.com/docs/functions) that acts as a proxy.
