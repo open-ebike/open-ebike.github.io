@@ -14,3 +14,7 @@ To do so we need to
 * [add a separate hubs page](https://github.com/open-ebike/open-ebike-frontend/commit/3d2f3e2e7a7157ba98e02cb8c65e4fd35dd76607) to display the hubs as a list
 
 ![web-app-hubs.png](/assets/2025-10-24/web-app-hubs.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/10/25/display-activities.html) we will display activities a user has performed on their eBike.
