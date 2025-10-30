@@ -7,7 +7,7 @@ categories: [devlog]
 
 Now that we managed to
 * [deploy the app to Firebase Hosting](https://open-ebike.github.io/devlog/2025/09/30/deploy-to-firebase-hosting.html)
-* [enabled it to call the Bosch EUDA API using a Firebase function as a proxy](https://open-ebike.github.io/devlog/2025/10/02/use-firebase-function0to-proxy-api-calls.html) and 
+* [enabled it to call the Bosch EUDA API using a Firebase function as a proxy](https://open-ebike.github.io/devlog/2025/10/02/use-firebase-functions-to-proxy-api-calls.html) and 
 * [make the client ID configurable](https://open-ebike.github.io/devlog/2025/10/03/make-client-id-configurable.html) to that it can be used by different users 
 
 let's take a small break and fix some minor issues such as

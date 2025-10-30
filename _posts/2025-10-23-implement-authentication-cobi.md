@@ -27,4 +27,4 @@ This triggers the same authentication flow as for Smart System (BES3) but sets t
 
 Next we need to [update the onboarding guide](https://github.com/open-ebike/open-ebike-frontend/commit/7f7173077c67a20d50ee888d507ebb0a041f9e80) on the home page to include COBI as a valid login option.
 
-![web-app-onboarding-guide.png](/assets/2025-10-11/web-app-onboarding-guide.png)
+![web-app-updated-onboarding-guide.png](/assets/2025-10-23/web-app-updated-onboarding-guide.png)

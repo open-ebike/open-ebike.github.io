@@ -24,4 +24,4 @@ Details of trip such as altitude and coordinates are stored in nested arrays.
 
 ---
 
-In [the next post](https://open-ebike.github.io/devlog/2025/10/16/display-activity-details.html) we will display activity details of a selected activity.
+In [the next post](https://open-ebike.github.io/devlog/2025/10/17/display-statistics.html) we will display activity statistics.

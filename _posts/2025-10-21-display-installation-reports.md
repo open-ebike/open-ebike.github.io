@@ -18,4 +18,4 @@ To do so we need to
 
 ---
 
-In [the next post](https://open-ebike.github.io/devlog/2025/10/22/display-remote-configurations.html) we will display remote configurations of an eBike.
+In [the next post](https://open-ebike.github.io/devlog/2025/10/22/display-remote-configuration-cases.html) we will display remote configurations of an eBike.

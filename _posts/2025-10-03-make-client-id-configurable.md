@@ -5,7 +5,7 @@ date: 2025-10-03 07:00:00 -0200
 categories: [devlog]
 ---
 
-In [the previous post](https://open-ebike.github.io/devlog/2025/10/02/use-firebase-function0to-proxy-api-calls.html) we managed to address the issue with same-origin policy we faced when calling Bosch EUDA APIs directly from our web app by using Firebase Functions.
+In [the previous post](https://open-ebike.github.io/devlog/2025/10/02/use-firebase-functions-to-proxy-api-calls.html) we managed to address the issue with same-origin policy we faced when calling Bosch EUDA APIs directly from our web app by using Firebase Functions.
 
 Now that the deployed web app can call the EUDA APIs one problem remains: The client ID is currently hard-coded.
 Based on the legal text a user is entitled to read their own data only.

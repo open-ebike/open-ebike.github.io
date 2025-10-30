@@ -105,5 +105,5 @@ With [CORS anywhere](https://cors-anywhere.com/) we send each request of our web
 While this approach bypasses the restrictions of the same-origin policy it is not intended to be used in production.
 
 Since this approach does not seem to work we need to find another alternative - for example proxying the server requests ourselves using cloud functions.
-In [the next post](https://open-ebike.github.io/devlog/2025/09/30/deploy-to-firebase-hosting.html) we will deploy the app to Firebase Hosting.
+In [the next post](https://open-ebike.github.io/devlog/2025/10/01/deploy-to-firebase-hosting.html) we will deploy the app to Firebase Hosting.
 
