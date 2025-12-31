@@ -45,3 +45,7 @@ We display yearly  achievements in a carousel so that the user can swipe through
 Similar to the social sharing feature that we introduced in [the previous post](https://open-ebike.github.io/devlog/2025/12/29/add-social-sharing.html) we now add a sharing option for yearly achievements.
 
 ![web-app-yearly-achievements-sharing.png](/assets/2025-12-30/web-app-yearly-achievements-sharing.png)
+
+---
+
+In [the next post](https://open-ebike.github.io/devlog/2025/12/31/display-activity-images.html) we will display images along the traveled activity.
